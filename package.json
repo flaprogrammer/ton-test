@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.1",
   "type": "module",
-  "homepage": "https://ton-test-gray.vercel.app",
+  "homepage": "https://flaprogrammer.github.io/ton-test",
   "scripts": {
     "deploy": "gh-pages -d dist",
     "dev": "vite --host",
